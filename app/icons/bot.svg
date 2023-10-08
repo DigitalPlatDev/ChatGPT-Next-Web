@@ -5,7 +5,7 @@
     <rect id="path_1" x="0" y="0" width="20.45454545454545" height="20.45454545454545" />
   </defs>
   <g opacity="1" transform="translate(0 0)  rotate(0 14.999999999999998 14.999999999999998)">
-    <rect fill="#0e0e0e" opacity="1"
+    <rect fill="#F0F0F0" opacity="1"
       transform="translate(0 0)  rotate(0 14.999999999999998 14.999999999999998)" x="0" y="0"
       width="29.999999999999996" height="29.999999999999996" rx="10" />
     <mask id="bg-mask-0" fill="white">
